@@ -1,16 +1,16 @@
-## Hi there 👋
+## Olá! Eu sou o Heitor 👋
 
-<!--
-**uDevMiranda/UDevMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência de Dados na Universidade Católica do Salvador  
+💡 Entusiasta de tecnologia e ciência de dados  
+📊 Apaixonado por análise de dados, machine learning e visualização de dados  
 
-Here are some ideas to get you started:
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=uDevMiranda&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Heitor's GitHub Stats">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Estatísticas de Ciência de Dados
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uDevMiranda&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages">
+</div>
+
